@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+	
+    <link rel="stylesheet" href="style1.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style1.css" />
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <title>TripNest.com</title>
+    <style>
+        .logo{
+
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <body>
+        <!--===========Nav Bar=============-->
+        <section class="nav-bar">
+            <div class="logo"><a href="Index.html"><img src="images/TripNest1.png"></a></div>
+            <ul class="menu">
+                <li><a href="Index.html">Home</a></li>
+                <li><a href="tours.html">Tours</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About us</a></li>
+                <li><a href="contact.html"><i class="fa-solid fa-user"></i></a></li>
+            </ul>
+            </div>
+        </section>
+        <!--===============Banner================-->
+        <section class="banner">
+            <div class="banner-text-item">
+                <div class="banner-heading">
+                    <h1>Find your Next tour!</h1>
+                </div>
+                <form class="form" id="searchForm">
+                    <input type="text" list="mylist" placeholder="Where would you like to go?" name="location">
+                    <datalist id="mylist">
+                        <option>Kashmir</option>
+                        <option>Switzerland</option>
+                        <option>Dubai</option>
+                        <option>Mumbai</option>
+                        <option>Hampi</option>
+                        <option>Maldives</option>
+                        <option>Kerla</option>
+                    </datalist>
+                    <input type="date" class="date">
+                    <!-- <a href="Switzerland.html" class="book">book</a> -->
+                    <button class="book" type="submit">Book</button>
+                </form>
+            </div>
+            <script src="tryingsearchbar/search2.js"></script>
+        </section>
+        <!--=========Services===============-->
+        <section class="services">
+            <div class="service-item">
+                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293634/tour-guide_onzla9.png">
+                <h2>8000+ Our Local Guides</h2>
+            </div>
+            <div class="service-item">
+                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293738/reliability_jbpn4g.png">
+                <h2>100% Trusted Tour Agency</h2>
+            </div>
+            <div class="service-item">
+                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293635/experience_a3fduk.png">
+                <h2>28+ Years of Travel Experience</h2>
+            </div>
+            <div class="service-item">
+                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293634/feedback_s8z7d9.png">
+                <h2>98% Our Travelers are Happy</h2>
+            </div>
+        </section>
+        <!--==============Places===================-->
+        <section class="places">
+            <div class="places-text">
+                <small>FEATURED TOURS PACKAGES</small>
+                <h2>Favourite Places</h2>
+            </div>
+            <div class="cards">
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a target="_blank"  href="Mumbai.html"><img src="images/mumbai (3).jpeg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>MUMBAI</h2>
+                        <p class="cost">₹10,000 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 3 Days</p>
+                            <p class="location">✈ CSMT,Mumbai</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a target="_blank"  href="Kerla.html"><img src="images/pexels-godson-bright-962464.jpg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐</span>
+                        <h2>KERALA</h2>
+                        <p class="cost">₹25,000/ Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 3 Days</p>
+                            <p class="location">✈ Munnar, Kerala</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a target="_blank"  href="Hampi.html"><img src="images/WhatsApp Image 2023-10-16 at 8.50.23 PM.jpeg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>Hampi</h2>
+                        <p class="cost">₹6,000/ Per Student</p>
+                        <div class="card-box">
+                            <p class="time">🕓 3 Days</p>
+                            <p class="location">✈ Hampi, Karnataka</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a target="_blank"  href="Maldives.html"><img src="images/maldives.jpg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>Maldives</h2>
+                        <p class="cost">₹95,000 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 3 Days</p>
+                            <p class="location">✈ Meedhoo, Maldives</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a  target="_blank"  href="Dubai.html"><img src="images/pexels-kirandeep-singh-walia-9127224.jpg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>Dubai</h2>
+                        <p class="cost">₹85,000 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 5 Days</p>
+                            <p class="location">✈ Sharjah, Dubai</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="zoom-img">
+                        <div class="img-card">
+                            <a target="_blank" href="Switzerland.html"><img src="images/switzerland.jpg"></a>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span class="rating">⭐⭐⭐⭐⭐</span>
+                        <h2>Switzerland</h2>
+                        <p class="cost">₹1,84,799 / Per Person</p>
+                        <div class="card-box">
+                            <p class="time">🕓 5 Days</p>
+                            <p class="location">✈ Zurich, Switzerland</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--===========About Us===============-->
+        <section class="about">
+            <div class="about-img">
+                <img src="https://res.cloudinary.com/dxssqb6l8/image/upload/v1605293719/outdoor_tjjhxk.jpg">
+            </div>
+            <div class="about-text">
+                <small>ABOUT OUR COMPANY</small>
+                <h2>We are TripNest Travel Support Company</h2>
+                <p>Our journey began with a simple idea—to share the joy of discovering new destinations, cultures, and experiences. With a team of seasoned travelers, adventure seekers, and travel enthusiasts, we curate a world of possibilities right at your fingertips. Whether you're a seasoned globetrotter or a first-time adventurer, TripNest is your trusted guide, providing comprehensive destination guides, travel tips, insider insights, and a platform to connect with fellow travelers.</p>
+               
+                <a href="about.html">ABOUT US</a>
+            </div>
+        </section>
+        <!--===========Footer=================-->
+        <footer id="colorlib-footer" role="contentinfo">
+			<div class="container">
+				<div class="row row-pb-md">
+					<div class="col-md-3 colorlib-widget">
+						<h4>Tour Agency</h4>
+						<p>TripNest.com is your travel companion, taking care of all the details so you can focus on making memories. We plan, you enjoy – it's that simple. Let's explore together!</p>
+						<p>
+							<ul class="colorlib-social-icons">
+								<li><a href="#"><i class="icon-twitter"></i></a></li>
+								<li><a href="#"><i class="icon-facebook"></i></a></li>
+								<li><a href="#"><i class="icon-linkedin"></i></a></li>
+								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-md-2 colorlib-widget">
+						<h4>Book Now</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="https://www.wego.co.in/flights">Flight</a></li>
+								<li><a href="https://www.oyorooms.com/">Hotels</a></li>
+								<li><a href="tours.html">Tour</a></li>
+								<li><a href="https://www.zoomcar.com/in/mumbai">Car Rent</a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-md-2 colorlib-widget">
+						<h4>Top Deals at</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="https://www.tajhotels.com/" target="_blank">Taj Hotels</a></li>
+								<li><a href="https://www.oberoihotels.com/" target="_blank">Oberoi</a></li>
+								<li><a href="https://www.thelalit.com/" target="_blank">The Lalit</a></li>
+								<li><a href="https://www.hyatt.com/" target="_blank">GrandHyatt</a></li>
+								<li><a href="https://www.radissonhotels.com/" target="_blank">Radisson Blu</a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-md-2">
+						<h4>Blog Post</h4>
+						<ul class="colorlib-footer-links">
+							<li><a href="#">The Ultimate Packing List For Female Travelers</a></li>
+							<li><a href="#">How These 5 People Found The Path to Their Dream Trip</a></li>
+							<li><a href="#">A Definitive Guide to the Best Dining and Drinking Venues in the City</a></li>
+						</ul>
+					</div>
+
+					<div class="col-md-3 col-md-push-1">
+						<h4>Contact Information</h4>
+						<ul class="colorlib-footer-links">
+							<li><a href="https://www.google.com/maps/place/Don+Bosco+Institute+of+Technology,+Mumbai/@19.0812532,72.8860212,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c8866a456c9f:0x8d1745d15baac575!8m2!3d19.0812532!4d72.8885961!16zL20vMGJjaDM1?entry=ttu" target="_blank"> Automobiles Road Opp <br> HDIL Premier Exotica, Kurla, Mumbai,<br>Maharashtra 400070</a></li>
+							<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+							<li><a href="mailto:info@yoursite.com">info@TripNest.com</a></li>
+							<li><a href="Index.html">TripNest.com</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<p>
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is Brought To You By <i class="icon-heart2" aria-hidden="true"></i> by <a href="Index.html" target="_blank">TripNest.com</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span> 
+							
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+    </body>
+</html>
+</body>
+</html>
