@@ -44,7 +44,4 @@ __4.	Blog page__
 ![Poster](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/8ddc55d4-58f8-463f-8951-94cafaaa057e)
 
     
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sahildavkhar)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-davkhar-779a94262/)
 
