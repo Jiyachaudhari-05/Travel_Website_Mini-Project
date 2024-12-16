@@ -3,41 +3,42 @@
 <br>
 
 
-# __TripNest.com - Travel Booking website__
+# __🌴 TripNest.com - Travel Booking Website__
+TripNest.com is a travel booking website created as part of a Semester 2 Mini Project. This project aims to showcase our skills in HTML, CSS, and JavaScript. It is educational, with a focus on front-end development, no database integration, and basic booking functionalities.
+The website is built solely for learning purposes and should not be used commercially.
 
-__TripNest__ : This is our sem2 Mini Project It is made for Educational Purpose and May have used copyright images But it would not be used commercially This Project is to demonstarte our skills and Knowledge about the web development and it is solely made using HTML,CSS and JAVASCRIPT It is a responsive website with no inculsion of data base so it may lack in some Features related to data base
+# 📜 Project Overview
+TripNest.com is a responsive travel booking platform showcasing a user-friendly interface to explore tours, blogs, and travel packages. While it lacks advanced database functionalities, it effectively demonstrates front-end web development skills
 
 
 
-## App UI
+## 📸 App UI
 
 ![Picture2](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/94709cbf-c77c-432e-a409-f7f66d16c89e)<br><br>
 
 ![Picture3](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/2fac46e8-9536-4968-807f-9e6a304263ad)
 
 
-## Features
+## ⭐ Features
 
 
-__1.	Home page__
+__1.	🏠 Home page__ : Displays featured tours and top destinations and seamlessly navigable sections for quick exploration.
 
-__2.	Tours page__
+__2.	🧳 Tours page__ : List and explore various travel packages and  tour descriptions and itineraries available.
 
-__3.	About page__
+__3.	📖 About page__ : Information about TripNest and the mission of the project.
 
-__4.	Blog page__
-
-
-
-## Tech Stack
-
-**HTML, CSS, JavaScript** 
+__4.	📰 Blog Page __ : Travel articles and tips to engage users.
 
 
 
-## App flow
+## 🔧 Tech Stack
 
-![Picture1](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/b33dde3b-b9a6-4e3e-9445-6bc90a1c2c5c)
+__• Frontend: HTML5, CSS3, JavaScript__ <br>
+__• Responsive Design: HTML & CSS (No external frameworks)__ <br>
+__• No Database Integration – purely client-side project__ <br>
+
+
 
 ## Project poster
 
