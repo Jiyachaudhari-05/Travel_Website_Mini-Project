@@ -41,7 +41,7 @@ __4.	Blog page__
 
 ## Project poster
 
-![Poster](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/8ddc55d4-58f8-463f-8951-94cafaaa057e)
+![Poster](328587400-8ddc55d4-58f8-463f-8951-94cafaaa057e)
 
     
 
