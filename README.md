@@ -28,7 +28,7 @@ __2.	🧳 Tours page__ : List and explore various travel packages and  tour desc
 
 __3.	📖 About page__ : Information about TripNest and the mission of the project.
 
-__4.	📰 Blog Page __ : Travel articles and tips to engage users.
+__4.	📰 Blog Page__ : Travel articles and tips to engage users.
 
 
 
