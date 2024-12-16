@@ -41,7 +41,7 @@ __4.	Blog page__
 
 ## Project poster
 
-![Poster](328587400-8ddc55d4-58f8-463f-8951-94cafaaa057e)
+![Poster](C:\Users\Subham\Downloads\328587400-8ddc55d4-58f8-463f-8951-94cafaaa057e.png)
 
     
 
