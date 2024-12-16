@@ -1,5 +1,5 @@
 <br>
-<img src=">
+<img src="https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/0c24ee7e-01cd-4d71-b53e-7e47f537b76e" alt="logo" width="300">
 <br>
 
 
@@ -11,9 +11,9 @@ __TripNest__ : This is our sem2 Mini Project It is made for Educational Purpose 
 
 ## App UI
 
-![Picture2]()<br><br>
+![Picture2](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/94709cbf-c77c-432e-a409-f7f66d16c89e)<br><br>
 
-![Picture3]()
+![Picture3](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/2fac46e8-9536-4968-807f-9e6a304263ad)
 
 
 ## Features
@@ -37,11 +37,11 @@ __4.	Blog page__
 
 ## App flow
 
-![Picture1]()
+![Picture1](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/b33dde3b-b9a6-4e3e-9445-6bc90a1c2c5c)
 
 ## Project poster
 
-![Poster](C:\Users\Subham\Downloads\328587400-8ddc55d4-58f8-463f-8951-94cafaaa057e.png)
+![Poster](https://github.com/Sahildavkhar/Travel_Website_Mini-Project/assets/141304285/8ddc55d4-58f8-463f-8951-94cafaaa057e)
 
     
 
